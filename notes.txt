@@ -1,0 +1,5 @@
+My name is S. M. S. Morsalin.
+
+I am learning Python and Artificial Intelligence.
+
+My goal is to become an AI Engineer.
