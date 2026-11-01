@@ -219,12 +219,6 @@ This project is intended to help beginners understand:
 -   Connect the agent to a Django application through
     permission-controlled APIs.
 
-## License
-
-Choose a license before publishing this repository. If you want others
-to use, modify, and distribute the project, consider adding an [MIT
-License](https://opensource.org/license/mit/).
-
 ------------------------------------------------------------------------
 
 **Built as a hands-on learning project to understand how AI agents use
